@@ -1,0 +1,6 @@
+[package]
+name = "pros-rs-3"
+version = "0.1.0"
+authors = ["Nixon <nixon.emoony@gmail.com>"]
+edition = "2018"
+license = "MPL-2.0"
